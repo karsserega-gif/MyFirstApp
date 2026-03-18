@@ -2,4 +2,17 @@
     <string name="app_name">MyFirstApp</string>
     <string name="main_text">My First Application</string>
     <string name="student_info">Student: Karsakov\\nGroup: 3.2ИСиП-2</string>
+    <string name="avatar_description">Avatar</string>
+    <string name="menu_description">Menu</string>
+    <string name="like_description">Нравится</string>
+    <string name="share_description">Поделиться</string>
+    <string name="views_description">Просмотры</string>
+    <string name="edit_post">Edit</string>
+    <string name="remove_post">Delete</string>
+    <string name="post_hint">Что у вас нового?</string>
+    <string name="save_post">Опубликовать</string>
+    <string name="cancel_edit_hint">Редактирование...</string>
+    <string name="cancel_edit">Отменить</string>
+
+
 </resources>
